@@ -1,0 +1,11 @@
+
+NIM = 20240040094
+Nama = Bagas Prasetyo
+Alamat = London LosAngeles
+Kelas = TI24
+
+NIM = 2020494723
+Nama = Henhen
+Alamat = bandung lautan api
+Kelas = TI23
+
